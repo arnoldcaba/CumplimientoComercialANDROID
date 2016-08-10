@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorVinotinto">#b71c1c</color>
+    <color name="colorBlanco">#000000</color>
+    <color name="colorVerde3">#cfd8dc</color>
+    <color name="colorMenu">#6666FF</color>
+    <color name="colorMenuSelect">#3c95bf</color>
+    <color name="colorLinear">#A3ABAF</color>
+    <color name="colorNegro">#000000</color>
+    <color name="colorVerde">#00ff11</color>
+</resources>

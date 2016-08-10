@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="btnMenu">
+        <item name="android:background">@color/colorMenu</item>
+        <item name="android:textColor">@color/colorVerde3</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="linear">
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:background">#FFFFFF</item>
+    </style>
+    <style name="listOptions">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@color/colorNegro</item>
+        <item name="android:layout_weight">3</item>
+    </style>
+    <style name="numeros">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_weight">8</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@color/colorNegro</item>
+        <item name="android:gravity">right</item>
+    </style>
+</resources>
